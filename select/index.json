@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "M@id in You 2025",
+  "base_artist": "あっとせぶんてぃーん",
+  "createdAt": "2025-12-18T12:04:26.519328Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "M@id in You",
+      "artist": "あっとせぶんてぃーん",
+      "has_synced": false,
+      "path": "select/pl_01_M@id_in_You_あっとせぶんてぃーん.txt"
+    }
+  ]
+}
